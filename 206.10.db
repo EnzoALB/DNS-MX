@@ -1,0 +1,10 @@
+$TTL    604800
+$ORIGIN 206.10.in-addr.arpa.
+@	IN  SOA debian.enzo-albouy.local. enzoalbouy.iutbeziers.fr (
+	01102019; 
+	604800;	
+	86400;
+	2419200;
+	604800);
+@	IN  NS  debian.enzo-albouy.local.
+153.0	IN  PTR	debian.enzo-albouy.local.
