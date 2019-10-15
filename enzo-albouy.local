@@ -11,6 +11,6 @@ debian	IN  A   10.206.0.153
 @	IN  MX	10 smtp
 @	IN  MX  10 pop
 @	IN  MX	10 imap
-smtp	IN  A	10.206.0.165
+smtp	IN  A	10.206.0.153
 pop	IN  A	10.206.0.165
 imap	IN  A	10.206.0.165
